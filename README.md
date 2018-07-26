@@ -1,4 +1,4 @@
-# haskell_notebooks
+# haskell
 
 Notebook | Link
 --- | ---
